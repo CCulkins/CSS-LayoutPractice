@@ -1,4 +1,4 @@
-# _Layout Practice 2/3_
+# _Layout Practice 1/3_
 
 #### _Small responsive wireframe webpage, 07/06/2016_
 
